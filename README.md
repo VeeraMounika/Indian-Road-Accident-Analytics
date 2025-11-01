@@ -1,6 +1,7 @@
 Indian Road Accident Analysis (2018–2023)
 
-Project Overview This project analyzes road accident data from across India (2018–2023) to uncover patterns, severity trends, and key risk factors. Using Python for data cleaning and Excel for interactive dashboards, the project aims to visualize the who, where, and why behind road accidents, helping identify actionable safety insights.
+Project Overview 
+-This project analyzes road accident data from across India (2018–2023) to uncover patterns, severity trends, and key risk factors. Using Python for data cleaning and Excel for interactive dashboards, the project aims to visualize the who, where, and why behind road accidents, helping identify actionable safety insights.
 
 Tools & Technologies
 -Python (Jupyter, Pandas, NumPy) – Data cleaning, transformation, and export
